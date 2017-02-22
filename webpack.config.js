@@ -1,6 +1,4 @@
-/**
- * Created by andrew25ism on 2/2/2017.
- */
+
 module.exports = {
     entry: "./index.js",
     output: {
